@@ -12,11 +12,11 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
-📌 Soy **Ingeniero en Informática** enfocado en el desarrollo de aplicaciones móviles y soluciones web.
+Soy **Ingeniero en Informática** enfocado en el desarrollo de aplicaciones móviles y soluciones web.
 
-🚀 Actualmente, estoy practicando habilidades en **AWS** (EC2, VPC, S3 y más).
+Actualmente, estoy practicando habilidades en **AWS** (EC2, VPC, S3 y más).
 
 🧠 Manejo tecnologías como:
 - **Flutter**, **Dart**, **JavaScript**
@@ -25,7 +25,7 @@
 
 📬 Puedes escribirme a: **cesarnegretes100@gmail.com**
 
-🤣 Dato curioso: *Me he roto el brazo 2 veces por tratar de ser deportista.*
+ Dato curioso: *Me he roto el brazo 2 veces por tratar de ser deportista.*
 
 ---
 
